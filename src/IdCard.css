@@ -1,0 +1,9 @@
+.id-card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+}
+
+.id-card > * {
+  margin: 10px;
+}
